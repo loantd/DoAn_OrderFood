@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#99CCCC</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorGray">#CCC</color>
+    <color name="colorButton">#333399</color>
+    <color name="backgroundDangNhap">#68992e</color>
+    <color name="colorRed">#e40404</color>
+    <color name="backgroundToolbar">#d77a09</color>
+    <color name="colorBlack">#000</color>
+    <color name="dangnhap">#6495ED</color>
+    <color name="button">#EEEEEE</color>
+    <color name="trongsut">#4DCC9900</color>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+
+    <item
+        android:id="@+id/itTrangchu"
+        android:title="@string/trangchu"
+        android:icon="@drawable/trangchu"
+
+        android:checked="true"
+        />
+    <item
+        android:id="@+id/itNhanVien"
+        android:title="@string/nhanvien"
+
+        android:icon="@drawable/nhanvien"
+        />
+    <item
+        android:id="@+id/itThucDon"
+        android:title="@string/thucdon"
+        android:icon="@drawable/menu"
+        />
+    <item
+        android:title="@string/thongke"
+        android:icon="@drawable/thongke"
+        />
+
+    <item
+        android:title="@string/caidat"
+        android:icon="@drawable/caidat"
+        />
+
+</menu>
